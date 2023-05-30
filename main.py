@@ -9,15 +9,17 @@ songFileName="HappyBirthdayAayush.mp3" #In this directory!
 
 #important links
 '''
-To make Happy Birtday visit:
+Create Name Arts in this website:
 https://patorjk.com/software/taag/#p=display&f=Doom&t=Happy%20Bithday%20%0A%20Aayush
 
-For cake in text visit:
+Create Name Arts in this website:
 https://asciiart.website/index.php?art=events/birthday
 
 For text symbol visit:
 https://fsymbols.com/letters/
+
 and 
+
 https://www.piliapp.com/symbol/
 
 For termcolor modual visit:
