@@ -1,12 +1,8 @@
 - Clone This repo
 - Start By installing modules from requirements.txt
-  - Run this command -
-
-module  
- command to install
-
-1. termcolor pip install termcolor
-   2.playsound pip install playsound
+  - Run this command - pip install -r requirements.txt
+  - Set songFileName in main.py
+  - Run the code
 
 # If any problem occur let me know:
 
